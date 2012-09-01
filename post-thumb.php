@@ -1,17 +1,22 @@
 <?php
 /*
-Plugin Name: Post Thumbs
-Plugin URI: http://theblemish.com/post-thumbs-plugin/
+Plugin Name: Post Thumb
+Plugin URI: http://github.com/ryomatsu/post-thumb
 Description: Thumbnail an image from own server from your post. Useful for listing popular posts, post list, etc.
-Version: 1.5
-Author: Victor Chang
-Author URI: http://theblemish.com/
+Version: 1.0
+Author: Ryo Matsufuji
+Author URI: http://loumo.jp/
 
 	Copyright (c) 2006 Victor Chang (http://theblemish.com)
 	Post Thumbs is released under the GNU General Public License (GPL)
 	http://www.gnu.org/licenses/gpl.txt
 
-	This is a WordPress 2 plugin (http://wordpress.org).
+    forked by Ryo Matsufuji at 08-31-2012
+	Copyright (c) 2012 Ryo Matsufuji (http://loumo.jp)
+	Post Thumb is released under the GNU General Public License (GPL)
+	http://www.gnu.org/licenses/gpl.txt
+
+	This is a WordPress 3 plugin (http://wordpress.org).
 
 */
 
